@@ -1,2 +1,2 @@
 # Space-Detector-Lab
-Python for space detector lab
+this is Python for space detector lab
